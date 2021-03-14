@@ -1,0 +1,3 @@
+[submodule "deepwalk"]
+	path = deepwalk
+	url = https://github.com/phanein/deepwalk.git
