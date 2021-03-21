@@ -1,3 +1,9 @@
 [submodule "deepwalk"]
 	path = deepwalk
 	url = https://github.com/phanein/deepwalk.git
+[submodule "graphsage-simple"]
+	path = graphsage-simple
+	url = https://github.com/zjzijielu/graphsage-simple.git
+[submodule "gnn-comparison"]
+	path = gnn-comparison
+	url = https://github.com/zjzijielu/gnn-comparison
