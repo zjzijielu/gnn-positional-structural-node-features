@@ -18,7 +18,7 @@ You can specify the initialization method, dataset, epoch, feature dimension and
 The results can be found in `results` folder.
 
 ## Graph classification
-Refer to `gnn_comparison/experiment.sh` for example runbook. For a detailed instruction, refer to https://github.com/zjzijielu/gnn-exp for a detailed running instruction.
+Refer to `gnn_comparison/experiment.sh` for example runbook. 
 
 ## Deepwalk
 Deepwalk is one of the initialization methods that we explore in this project. To generate deepwalk features, refer to https://github.com/phanein/deepwalk.
