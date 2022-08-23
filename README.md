@@ -1,4 +1,4 @@
-# On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs (DLG-KDD 2021)
+# On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs (CIKM 2022)
 
 ## Summary 
 This repository is the official implementation of the paper. If you would like to use/modify the code or reproduce the experiment results, please remember to cite this paper:
