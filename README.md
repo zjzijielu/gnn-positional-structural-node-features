@@ -3,7 +3,7 @@
 ## Summary 
 This repository is the official implementation of the paper. If you would like to use/modify the code or reproduce the experiment results, please remember to cite this paper:
 
-[Hejie Cui, Zijie Lu, Pan Li, Carl Yang: On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs](https://arxiv.org/pdf/2107.01495.pdf). Proceedings of Workshop of Deep Learning on Graphs: Methods and Applications, The 27th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (DLG-KDD’21). 
+[Hejie Cui, Zijie Lu, Pan Li, Carl Yang: On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs](https://arxiv.org/pdf/2107.01495.pdf). Proceedings of the International Conference on Information and Knowledge Management (CIKM) 2022
 
 
 ## System and software config
